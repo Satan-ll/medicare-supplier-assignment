@@ -4,7 +4,7 @@ An analysis of **56,960 Medicare medical-equipment suppliers** to find out which
 assignment*, and whether we can predict it. Completed for the Udacity Data Scientist Nanodegree
 ("Write a Data Science Blog Post") following the **CRISP-DM** process.
 
-📝 **Blog post:** [link to your published post here](#)
+📝 **Blog post:** [(https://medium.com/@sultanbahamburah/same-walker-different-bill-what-57-000-medicare-suppliers-reveal-about-who-accepts-medicares-7a858556a7fb)](#)
 
 ![Map of suppliers](images/header_map.png)
 
